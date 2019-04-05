@@ -1,0 +1,2 @@
+- Python com Flask e MySQL 
+- Login para alunos de uma escola com detalhamento de disciplinas, notas e semestre
